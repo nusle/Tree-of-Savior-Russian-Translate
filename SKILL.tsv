@@ -783,8 +783,8 @@ SKILL_20150317_000782 [Rogue Master] Normal attack
 SKILL_20150317_000783 [Monk Master] Normal attack
 SKILL_20150317_000784 [Oracle Master] Normal attack
 SKILL_20150317_000785 [Druid Master] Normal attack
-SKILL_20150317_000786 Basic Attack
-SKILL_20150317_000787 Attack the enemy nearby
+SKILL_20150317_000786 Базовая Атака
+SKILL_20150317_000787 Атакует врагов поблизости
 SKILL_20150317_000788 Bow right hand (For Two-handed bow)
 SKILL_20150317_000789 Damage nearby enemy by swinging weapon.
 SKILL_20150317_000790 Magic attack to the enemy at a long distance.
@@ -918,43 +918,43 @@ SKILL_20150317_000917 [Yekub Card] Magic Dark Property Strike
 SKILL_20150317_000918 [Physical Shield] Non-Property Magic
 SKILL_20150317_000919 [Sparnasman Card] Physical Non-Property Magic
 SKILL_20150317_000920 Thrust
-SKILL_20150317_000921 {#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Stab and push away enemy.
-SKILL_20150317_000922 Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#
+SKILL_20150317_000921 {#DD5500}{ol}[Физический] - [Колющий]{/}{/}{nl}Протыкает и отталкивает назад врага.
+SKILL_20150317_000922 Атака #{SkillAtkAdd}#{nl}Режущая #{SkillSR}#
 SKILL_20150317_000923 Bash
-SKILL_20150317_000924 {#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Swing weapon widely to damage target.
+SKILL_20150317_000924 {#DD5500}{ol}[Физический] - [Режущий]{/}{/}{nl}Наносит удар с размаху.
 SKILL_20150317_000925 Gung Ho
-SKILL_20150317_000926 Increase attack while decreasing defense.
-SKILL_20150317_000927 Physical Damage + #{CaptionRatio}#{nl}Physical Defense - #{CaptionRatio2}# {nl}Duration #{CaptionTime}# seconds
+SKILL_20150317_000926 Повышает вашу атаку, но уменьшает вашу защиту.
+SKILL_20150317_000927 Физический урон + #{CaptionRatio}#{nl}Физическая защита - #{CaptionRatio2}# {nl}Длительность #{CaptionTime}# секунд
 SKILL_20150317_000928 Concentrate
-SKILL_20150317_000929 Increase skill power.
-SKILL_20150317_000930 Additional Damage + #{CaptionRatio2}#{nl}Attack#{CaptionRatio}# times {nl}Duration #{CaptionTime}# seconds
+SKILL_20150317_000929 Увеличивает урон от умений.
+SKILL_20150317_000930 Дополнительный Урон + #{CaptionRatio2}#{nl}Атака#{CaptionRatio}# times {nl}Длительность #{CaptionTime}# секунд
 SKILL_20150317_000931 Restrain
-SKILL_20150317_000932 Lower maximum HP and increase attack.
-SKILL_20150317_000933 Physical Attack + #{CaptionRatio}#{nl}Maximum HP - #{CaptionRatio2}# {nl} Duration #{CaptionTime}# seconds
+SKILL_20150317_000932 Уменьшает очки жизни, но повышает вашу атаку. 
+SKILL_20150317_000933 Физическая Атака + #{CaptionRatio}#{nl}Максимум HP - #{CaptionRatio2}# {nl} Длительность #{CaptionTime}# секунд
 SKILL_20150317_000934 Umbo Blow
 SKILL_20150317_000935 {#DD5500}{ol}[Физический] - [Удар]{/}{/}{nl}Совершает круговой удар щитом. {nl} После успешной блокировки умение наносит повышенный урон.
 SKILL_20150317_000936 Rim Blow
 SKILL_20150317_000937 {#DD5500}{ol}[Физический] - [Пробивание]{/}{/}{nl}Совершает удар щитом. {nl} Наносит дополнительный урон если цель заморожена или окаменела.
 SKILL_20150317_000938 Swash Buckling Призыв (мне не нравится)
 SKILL_20150317_000939 Провоцирует врагов атаковать Пельтасту совершив удар по щиту.
-SKILL_20150317_000940 Target #{SkillSR}#{nl}Max. provoke +#{CaptionRatio}# for #{CaptionTime}# seconds
+SKILL_20150317_000940 Цель #{SkillSR}#{nl}Max. provoke +#{CaptionRatio}# на #{CaptionTime}# секунд
 SKILL_20150317_000941 Уменьшает атаку и увеличивает защиту.
-SKILL_20150317_000942 Physical Defense + #{CaptionRatio}#{nl}Physical Damage - #{CaptionRatio2}# {nl}Duration #{CaptionTime}# seconds
+SKILL_20150317_000942 Физическая Защита + #{CaptionRatio}#{nl}Физический Урон - #{CaptionRatio2}# {nl}Длительность #{CaptionTime}# seconds
 SKILL_20150317_000943 Shield Lob
-SKILL_20150317_000944 {#DD5500}{ol}[Физический] - [Пробивание]{/}{/}{nl} После недолгой подготовки бросает свой щит в указанную область нанося урон врагу. Поле броска нужно подобрать свой щит.
-SKILL_20150317_000945 High Guard Возвышенный защитник (мне не нравится)
+SKILL_20150317_000944 {#DD5500}{ol}[Физический] - [Пробивание]{/}{/}{nl} После недолгой подготовки бросает свой щит в указанную область нанося урон врагу. Поле броска нужно подобрать свой щит.
+SKILL_20150317_000945 High Guard 
 SKILL_20150317_000946 Butterfly Полёт
 SKILL_20150317_000947 Wagon Wheel
-SKILL_20150317_000948 {#DD5500}{ol}[Физический] - [Режущий]{/}{/}{nl}Uppercut with weapon to Blow away enemy.
+SKILL_20150317_000948 {#DD5500}{ol}[Физический] - [Режущий]{/}{/}{nl} Наносит удар снизу отбрасывая врагов.
 SKILL_20150317_000949 Cartar Stroke
-SKILL_20150317_000950 {#DD5500}{ol}[Physical] - [Пробивание]{/}{/}{nl} Gather strength and hit the ground to attack enemy
-SKILL_20150317_000951 Attack #{SkillAtkAdd}#{nl}Cast Time 0.5 seconds{nl}Splash #{SkillSR}#
+SKILL_20150317_000950 {#DD5500}{ol}[Физический] - [Пробивание]{/}{/}{nl}Собрав силы бъет по земле атакуя врагов.
+SKILL_20150317_000951 Атака #{SkillAtkAdd}#{nl}Время подготовки 0.5 секунд{nl}Splash #{SkillSR}#
 SKILL_20150317_000952 Crown
-SKILL_20150317_000953 {#DD5500}{ol}[Физичский] - [Пробивание]{/}{/}{nl}Smash enemy's head. Temporarily decreases the enemy's INT and SPR.
-SKILL_20150317_000954 Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#{nl}{#339999}{ol}[Shock]{/}{/} Duration #{CaptionTime}# seconds
+SKILL_20150317_000953 {#DD5500}{ol}[Физичский] - [Пробивание]{/}{/}{nl}Бьет врага по голове. Временно уменьшает INT и SPR цели.
+SKILL_20150317_000954 Атака #{SkillAtkAdd}#{nl}Splash #{SkillSR}#{nl}{#339999}{ol}[Shock]{/}{/} Длительность #{CaptionTime}# секунд
 SKILL_20150317_000955 Cross Guard
-SKILL_20150317_000956 Take defensive stance using weapon.
-SKILL_20150317_000957 Defense + #{CaptionRatio}#{nl}Block + #{CaptionRatio2}#
+SKILL_20150317_000956 Встает в защитную стойку используя оружие.
+SKILL_20150317_000957 Защита + #{CaptionRatio}#{nl}Блок + #{CaptionRatio2}#
 SKILL_20150317_000958 Moulinet
 SKILL_20150317_000959 {#DD5500}{ol}[Физический] - [Режущий]{/}{/}{nl}Attack enemy continuously 5 times
 SKILL_20150317_000960 Stabbing
@@ -963,11 +963,11 @@ SKILL_20150317_000962 Pierce
 SKILL_20150317_000963 {#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Strongly stab enemy. {nl}Continuous attack bonus applies depending on size of enemy.
 SKILL_20150317_000964 Attack #{SkillAtkAdd}#{nl}2 Attacks on medium target{nl}3 Attacks on large target
 SKILL_20150317_000965 Finestra
-SKILL_20150317_000966 Change to Window formation. {Nl}Critical is increased while Evasion decreases.
-SKILL_20150317_000967 Critical + #{CaptionRatio}#{nl}Evasion - #{CaptionRatio2}#{nl}Duration #{CaptionTime}# seconds
+SKILL_20150317_000966 Change to Window formation. {Nl}Увиличивает критичнось снижая уклонение
+SKILL_20150317_000967 Критический + #{CaptionRatio}#{nl}Уклонение - #{CaptionRatio2}#{nl}Длительность #{CaptionTime}# seconds
 SKILL_20150317_000968 Synchro Thrusting
 SKILL_20150317_000969 {#DD5500}{ol}[Физический] - [Пронзающий] - [Пробивающий]{/}{/}{nl}Атакует цель обдновременно используя Щит и Копьё
-SKILL_20150317_000970 Spear Attack #{SkillAtkAdd}#{nl}Shield Attack #{CaptionRatio}#{nl}Splash #{SkillSR}#
+SKILL_20150317_000970 Атака Копьем #{SkillAtkAdd}#{nl}Атака Щитом #{CaptionRatio}#{nl}Splash #{SkillSR}#
 SKILL_20150317_000971 Long Stride
 SKILL_20150317_000972 {#DD5500}{ol}[Физический] - [Пронзающий]{/}{/}{nl}Совершает прыжок в указанную область нанося всем в радиусе приземления урон. Размер урона зависит от времени подготовки прыжка.
 SKILL_20150317_000973 Бросок копья
