@@ -349,12 +349,12 @@ ITEM_20150317_000348	Recurve Bow
 ITEM_20150317_000349	Seige Bow 
 ITEM_20150317_000350	Sniper Bow 
 ITEM_20150317_000351	Skull Bow 
-ITEM_20150317_000352	Wooden Compound Bow 
+ITEM_20150317_000352	Деревянный Составной Лук 
 ITEM_20150317_000353	{memo X}Tag Bow 
 ITEM_20150317_000354	Rogue Bow 
 ITEM_20150317_000355	Seeker 
 ITEM_20150317_000356	{memo X}This bow, popular among hunters, became even more widespread after the Great Plant Cataclysm. 
-ITEM_20150317_000357	Iron Bow 
+ITEM_20150317_000357	Железный Лук 
 ITEM_20150317_000358	This bow has great precision and can frequently cause unexpected damage to the foe. 
 ITEM_20150317_000359	Hawk Bow 
 ITEM_20150317_000360	{memo X}A Self Bow made with random bones will sometimes not have synergy with gold. 
@@ -426,9 +426,9 @@ ITEM_20150317_000425	{memo X}Crude Oak Crossbow
 ITEM_20150317_000426	{memo X}Crude Seal Crossbow 
 ITEM_20150317_000427	Sniper Crossbow 
 ITEM_20150317_000428	A powerful crossbow, infamous for being used by the Assassin Evoniphon. 
-ITEM_20150317_000429	Light Crossbow 
+ITEM_20150317_000429	Легкий Арбалет 
 ITEM_20150317_000430	{memo X}Heavy Light Crossbow 
-ITEM_20150317_000431	Crossbow 
+ITEM_20150317_000431	Арбалет 
 ITEM_20150317_000432	{memo X}Heavy Dokyu 
 ITEM_20150317_000433	{memo X}Heavy Quarrel Bow 
 ITEM_20150317_000434	{memo X}Heavy Oak Crossbow 
@@ -459,7 +459,7 @@ ITEM_20150317_000458	Chaser
 ITEM_20150317_000459	Frequently used by archers operating in areas with poor visibility or strong winds. 
 ITEM_20150317_000460	Imperni Crossbow 
 ITEM_20150317_000461	Rumors say that black market weapons are intentionally made to be expensive to maintain. 
-ITEM_20150317_000462	Grave Crossbow 
+ITEM_20150317_000462	Могильный Арбалет 
 ITEM_20150317_000463	This weapon is recommended if you intend to permanently put the target to sleep. 
 ITEM_20150317_000464	Smith Crossbow 
 ITEM_20150317_000465	{memo X}This weapon will only deal as much damage as you expect it to every time you pull the trigger. 
@@ -471,8 +471,8 @@ ITEM_20150317_000470	Dratt Crossbow
 ITEM_20150317_000471	Aston Crossbow 
 ITEM_20150317_000472	{memo X}Devi Crossbow 
 ITEM_20150317_000473	{memo X}Prima Crossbow 
-ITEM_20150317_000474	Shooting Star 
-ITEM_20150317_000475	Previously only archers who completed the training in 'The Tower of the Stars' could use this weapon. 
+ITEM_20150317_000474	Падающая Звезда 
+ITEM_20150317_000475	Ранее только лучники, прошедшие обучение в "Башне Звезд" могли использовать это оружие. 
 ITEM_20150317_000476	Kateen Blaster
 ITEM_20150317_000477	{memo X}The Ranger Master developed this weapon based on research data on the monsters in the Kateen Forest after the Great Plant Cataclysm. However, he recommends that no one uses it. 
 ITEM_20150317_000478	Grajus 
@@ -495,8 +495,8 @@ ITEM_20150317_000494	Dunkel Iron Club
 ITEM_20150317_000495	A weapon at least of this caliber is necessary to carry out the Goddess' punishment. 
 ITEM_20150317_000496	{memo X}Low Mace 
 ITEM_20150317_000497	This is the minimum requirement to prove that one is no longer an apprentice cleric. 
-ITEM_20150317_000498	Morning Star 
-ITEM_20150317_000499	It is also known as 'The Mace of Repentance' among clerics. 
+ITEM_20150317_000498	Утренняя Звезда 
+ITEM_20150317_000499	Он также известен как Булава Покаяния среди священнослужителей. 
 ITEM_20150317_000500	Mallet 
 ITEM_20150317_000501	Seasoned clerics attack the enemy in a multitude of ways using the ornament at the head of this mallet. 
 ITEM_20150317_000502	Goedendag 
@@ -505,21 +505,21 @@ ITEM_20150317_000504	Warpick
 ITEM_20150317_000505	Did you say blunt weapons can't pierce through armor? There are always exceptions. 
 ITEM_20150317_000506	Maul 
 ITEM_20150317_000507	Only those who has ceaselessly trained their body can wield the weight of this weapon. 
-ITEM_20150317_000508	Battle Hammer 
-ITEM_20150317_000509	Since the emergence of monsters, many maces underwent exterior changes. 
+ITEM_20150317_000508	Молот Битвы 
+ITEM_20150317_000509	С появлением монстров многие булавы подверглийсь изменения.
 ITEM_20150317_000510	{memo X}Crude Goedendag 
 ITEM_20150317_000511	{memo X}Crude Warpick 
-ITEM_20150317_000512	Soldier's Club 
+ITEM_20150317_000512	Солдатская Дубина
 ITEM_20150317_000513	Despite being a Chaplain's official weapon, expedition priests rarely use them. 
-ITEM_20150317_000514	Mayor's Iron Club 
+ITEM_20150317_000514	Железная Дубина Майора 
 ITEM_20150317_000515	{memo X}There is evidence that it has been used as a tool rather than as a weapon. 
 ITEM_20150317_000516	{memo X}Crude Mace 
 ITEM_20150317_000517	Chekan 
 ITEM_20150317_000518	The original intention was to craft a single, heavy weapon by combining several blunt weapons. 
 ITEM_20150317_000519	{memo X}Heavy Wooden Club 
-ITEM_20150317_000520	Iron Club 
-ITEM_20150317_000521	{memo X}Heavy Iron Club 
-ITEM_20150317_000522	Mace 
+ITEM_20150317_000520	Железная Дубина 
+ITEM_20150317_000521	{memo X}Тяжелая Железная Дубина 
+ITEM_20150317_000522	Булава 
 ITEM_20150317_000523	{memo X}Heavy Morning Star 
 ITEM_20150317_000524	{memo X}Heavy Maul 
 ITEM_20150317_000525	{memo X}Heavy Goedendag 
