@@ -10,27 +10,27 @@ QUEST_LV_0100_20150317_000009	Эта бумажка принадлежит мн�
 QUEST_LV_0100_20150317_000010	Ну вот, обидно...
 QUEST_LV_0100_20150317_000011	Когда Богини исчезли из нашего мира, оставалось надеяться на одну лишь мечту.{nl}Что, возможно, один из этих людей сумеет вернуть Богинь.
 QUEST_LV_0100_20150317_000012	Soldier Blak
-QUEST_LV_0100_20150317_000013	Be warned!{nl}Monsters are attacking, so all civilians must evacuate!{nl}Why are those civilians in the military zone anyway?{nl}
-QUEST_LV_0100_20150317_000014	Ah, so you are the Revelator! I'm sorry, I didn't recognize you.{nl}Monsters are attacking the supply base at the moment.{nl}I need to get some important rations out from the base. Please help me!
-QUEST_LV_0100_20150317_000015	It was peaceful not too long ago, but now they are coming in groups.{nl}What's happening exactly?
-QUEST_LV_0100_20150317_000016	Even so, I felt uneasy...{nl}Who knew that they'd attack in such an absurd manner?
-QUEST_LV_0100_20150317_000017	The rations are in the First Supply Warehouse, which you can get to using the road on the upper side.{nl}Bring however little leftovers you can find... 
-QUEST_LV_0100_20150317_000018	I wrote down who Sparnas is. Maybe it will be useful in the future.{nl}Though I may not appear so right now, I was a biologist four years ago.
-QUEST_LV_0100_20150317_000019	Please pass this report to Luders.{nl}He is probably at the Center Supply Camp.
+QUEST_LV_0100_20150317_000013	Внимание!{nl}Монстры атакуют, всем гражданским следует эвакуироваться!{nl}Что вообще гражданские делают в зоне боевых действий?{nl}
+QUEST_LV_0100_20150317_000014	Ах, так ты Revelator! Прости, не признал сначала.{nl}Монстры напали на нашу базу снабжения.{nl}Помоги мне спасти из их лап рационы, это важно!
+QUEST_LV_0100_20150317_000015	Совсем недавно всё было спокойно, но теперь монстры нападают группами.{nl}Что же такое происходит?
+QUEST_LV_0100_20150317_000016	Так или иначе, чувствую себя неловно...{nl}Кто бы мог подумать, что монстры способны на такие абсурдные действия?
+QUEST_LV_0100_20150317_000017	Рационы находятся в First Supply Warehouse, куда можно попасть по дороге выше.{nl}Принеси всё, что сможешь, даже если там остались лишь жалкие крохи... 
+QUEST_LV_0100_20150317_000018	Я записал, что из себя представляет Sparnas. Может, пригодится в будущем.{nl}По мне не скажешь, но я был биологом года четыре тому назад.
+QUEST_LV_0100_20150317_000019	Передай этот отчёт Luders, пожалуйста.{nl}Он, скорее всего, в Center Supply Camp.
 QUEST_LV_0100_20150317_000020	Officer Luders
-QUEST_LV_0100_20150317_000021	Ah, you must be the so called Revelator. Nice to meet you.{nl}Is this Block's report?{nl}
-QUEST_LV_0100_20150317_000022	Hmm... Is that so?{nl}They just destroyed the supplies and ran away. Even if Chupacabras had wings, I am sure they can't do something like that.{nl}
-QUEST_LV_0100_20150317_000023	This isn't enough.{nl}I am sorry, but please bring us Moody's report from Amzina Curved Path.
-QUEST_LV_0100_20150317_000024	I feel better since Luders is here.
+QUEST_LV_0100_20150317_000021	А, ты, должно быть, тот, кого называют Revelator. Приятно познакомиться.{nl}У тебя отчёт Block's?{nl}
+QUEST_LV_0100_20150317_000022 Хм... Вот, значит, как?{nl}Уничтожили наши припасы и сбежали. Даже Chupacabras, будь у них крылья и возможность, так бы не поступили.{nl}
+QUEST_LV_0100_20150317_000023	Этого недостаточно.{nl}Мне жаль просить тебя, но мне нужен отчёт Moody's из Amzina Curved Path.
+QUEST_LV_0100_20150317_000024	Пока Luders здесь, я чувствую себя лучше.
 QUEST_LV_0100_20150317_000025	Soldier York
-QUEST_LV_0100_20150317_000026	Shaulems are crossing the road.{nl}I am in a panic myself, and I don't know what to do.{nl}I'm sure Luders won't allow this to happen... What should we do?
-QUEST_LV_0100_20150317_000027	Do you think the problem will be resolved just by defeating Sparnas?
-QUEST_LV_0100_20150317_000028	Thanks to your help, I think I can hold myself together.{nl}But... won't this kind of thing happen again? What should I do then...?
-QUEST_LV_0100_20150317_000029	Sparnas? We don't have a clear answer about it.{nl}It just appeared from the sky without any signs and destroyed all the supplies we had. Then, it quickly disappeared.{nl}We got headaches just hearing its cries.
-QUEST_LV_0100_20150317_000030	The place I just talked about is the Second Supply Warehouse.{nl}It is depressing to think how these kinds of things will be recurring in the future.
-QUEST_LV_0100_20150317_000031	Take it. I made some bait from old grains in the supplies.{nl}I will lure it from up there, so you stay here.{nl}Sparnas will definitely appear at one of these two places. Don't let it escape. Destroy it for sure.{nl}
-QUEST_LV_0100_20150317_000032	We may not get a second chance if we don't defeat it this time.{nl}It doesn't seem like they're idiots.
-QUEST_LV_0100_20150317_000033	{memo X}I heard the sound of fighting so I came in a hurry. Did you defeat it?{nl}I only spotted Shaulems at my spot.{nl}Thank you. You have performed a meritorious deed.
+QUEST_LV_0100_20150317_000026	Shaulems переходят дорогу.{nl}Мне очень не по себе, и я не знаю, что нужно делать.{nl}Уверен, Luders не позволит этому случиться... Что же делать?
+QUEST_LV_0100_20150317_000027	Думаешь, достаточно одолеть Sparnas, чтобы всё устаканилось?
+QUEST_LV_0100_20150317_000028	Благодаря твоей помощи мне стало спокойнее.{nl}Но... это точно не повторится? Если вдруг, то что мне тогда делать...?
+QUEST_LV_0100_20150317_000029	Sparnas? Даже не знаю, как это описать.{nl}Он как с неба свалился на нас и уничтожил все припасы. А потом взял и бесследно исчез.{nl}У нас голова раскалывалась, когда он выл.
+QUEST_LV_0100_20150317_000030	Это случилось в Second Supply Warehouse.{nl}Очень тяжело осозновать, что подобное может случиться снова в будущем.
+QUEST_LV_0100_20150317_000031	Возьми. Я сделал приманку из оставшихся в припасах старых зёрен.{nl}Я заманю его, а ты оставайся здесь.{nl}Sparnas точно объявится либо здесь, либо там. Не дай ему уйти. Убей его окончально.{nl}
+QUEST_LV_0100_20150317_000032	Если в этот раз ничего не выйдет, другого шанса нам может не представиться.{nl}Не похоже, чтоб эти ребята были так уж глупы.
+QUEST_LV_0100_20150317_000033	{memo X}Я услышал звуки борьбы и прибежал на них. Ты победил его?{nl}У меня там были одни Shaulems.{nl}Благодарю тебя. Ты оказал нам неоценимую услугу.
 QUEST_LV_0100_20150317_000034	Adjutant General Paulina
 QUEST_LV_0100_20150317_000035	We should recover the stolen supplies.{nl}We can't call ourselves soldiers of the kingdom if we don't do anything about it.{nl}
 QUEST_LV_0100_20150317_000036	The stolen supplies were taken by the Shaulems in every Supply Warehouse, recover the supplies and bring them to Volda.
